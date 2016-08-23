@@ -11,5 +11,7 @@ This is me editing thru GitHub desktop into File Explorer
 This file: C:\Users\Bridget\Documents\GitHub\DugandDigFusionGame\.git\logs\refs\heads
 now has Branch1 and Branch2 files
 
+Now created Branch3 in GitHub Desktop off of what it said in GitHub Desktop was master.
+
 
 
